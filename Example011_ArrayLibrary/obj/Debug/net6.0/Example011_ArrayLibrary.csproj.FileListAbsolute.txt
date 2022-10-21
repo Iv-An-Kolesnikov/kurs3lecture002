@@ -1,0 +1,15 @@
+C:\GeekBrains\kurs3\kurs3lecture002\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.exe
+C:\GeekBrains\kurs3\kurs3lecture002\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.deps.json
+C:\GeekBrains\kurs3\kurs3lecture002\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.runtimeconfig.json
+C:\GeekBrains\kurs3\kurs3lecture002\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.dll
+C:\GeekBrains\kurs3\kurs3lecture002\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.pdb
+C:\GeekBrains\kurs3\kurs3lecture002\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.csproj.AssemblyReference.cache
+C:\GeekBrains\kurs3\kurs3lecture002\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\kurs3\kurs3lecture002\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfoInputs.cache
+C:\GeekBrains\kurs3\kurs3lecture002\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfo.cs
+C:\GeekBrains\kurs3\kurs3lecture002\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\GeekBrains\kurs3\kurs3lecture002\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.dll
+C:\GeekBrains\kurs3\kurs3lecture002\Example011_ArrayLibrary\obj\Debug\net6.0\refint\Example011_ArrayLibrary.dll
+C:\GeekBrains\kurs3\kurs3lecture002\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.pdb
+C:\GeekBrains\kurs3\kurs3lecture002\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.genruntimeconfig.cache
+C:\GeekBrains\kurs3\kurs3lecture002\Example011_ArrayLibrary\obj\Debug\net6.0\ref\Example011_ArrayLibrary.dll
